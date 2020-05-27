@@ -1,4 +1,4 @@
-# rCore_tutorial
+# rCore_tutorial Learing rCore @5/27/2020
 
 [![Actions Status](https://github.com/rcore-os/rCore_tutorial/workflows/CI/badge.svg)](https://github.com/rcore-os/rCore_tutorial/actions)
 
