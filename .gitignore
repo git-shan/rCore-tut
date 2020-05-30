@@ -4,3 +4,6 @@ usr/build
 os/src/link_user.S
 Cargo.lock
 bin
+.vscode/launch.json
+.vscode/tasks.json
+.gitignore
