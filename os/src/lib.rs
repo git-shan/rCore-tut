@@ -3,8 +3,14 @@
 #![feature(global_asm)]
 
 #[macro_use]
-mod io;
+pub mod io;
 
-mod init;
+pub mod init;
+pub mod memory;
+pub mod consts;
+
 mod lang_items;
 mod sbi;
+mod interrupt;
+mod context;
+mod timer;
